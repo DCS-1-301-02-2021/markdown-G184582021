@@ -7,12 +7,15 @@
 ####3つのコース
 1. システムエンジニアリングコース
 プログラミングによって時代の求める新しい情報システムを作る
+
 ![logo](abm00014679.jpeg)
 2. インターネット&セキュリティコース
 安心で安全できるネットワークとセキュリティを学ぶ
+
 ![logo](https://feng.takushoku-u.ac.jp/albums/abm00014680.jpg)
 3. 知能情報コース
 モノとコトの未来へAIの先を拓く
+
 ![logo](https://feng.takushoku-u.ac.jp/albums/abm00014680.jpg)
 
 拓殖大学
